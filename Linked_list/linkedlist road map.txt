@@ -1,0 +1,104 @@
+# 🛤️ Linked List Mastery Roadmap
+
+### **Phase 1 – Foundation**
+
+* ✅ What is a Linked List?
+
+  * Node structure (`data`, `next` pointer).
+  * Difference vs Arrays (contiguous memory vs dynamic).
+  * When to use LL (frequent insert/delete).
+
+* ✅ **Singly Linked List Basics**
+
+  * Create a Node class.
+  * Initialize `head`.
+  * Traverse & print list.
+  * Count nodes.
+
+---
+
+### **Phase 2 – Core Operations**
+
+Practice implementing each one (not just memorizing):
+
+* Insert at **beginning**
+* Insert at **end**
+* Insert at **position / after node**
+* Insert before node (slightly trickier)
+* Delete **first node**
+* Delete **last node**
+* Delete node by **value**
+* Search element in list
+
+👉 These are your bread & butter for 90% of problems.
+
+---
+
+### **Phase 3 – Intermediate Workouts**
+
+Now handle common interview-style operations:
+
+* Reverse a linked list (iterative & recursive).
+* Find middle node (slow & fast pointer).
+* Detect cycle (Floyd’s cycle detection).
+* Remove duplicates (sorted & unsorted).
+* Merge two sorted linked lists.
+* Intersection of two linked lists.
+
+---
+
+### **Phase 4 – Advanced Problems**
+
+Push yourself here:
+
+* Detect & remove cycle.
+* Rotate linked list (by k).
+* Partition list around a value (like quicksort).
+* Check if list is palindrome.
+* Add two numbers represented by linked lists.
+* Flatten a multilevel linked list.
+
+---
+
+### **Phase 5 – Doubly & Circular Linked List**
+
+* **Doubly Linked List (DLL)**:
+
+  * Node has `prev` and `next`.
+  * Insertions/deletions in DLL.
+* **Circular Linked List**:
+
+  * Last node points back to head.
+  * Traversals + insert/delete.
+
+👉 You don’t need to go super deep here unless interviewer asks. Most focus is on **singly LL**.
+
+---
+
+### **Phase 6 – Practice & LeetCode Grind**
+
+Target problems:
+
+* Easy: Reverse Linked List, Merge Two Sorted Lists, Remove Duplicates.
+* Medium: Linked List Cycle, Intersection, Add Two Numbers.
+* Hard: Reverse Nodes in k-Group, Copy List with Random Pointer.
+
+---
+
+### **Phase 7 – System Thinking**
+
+* Applications of Linked List:
+
+  * Implementing Stacks & Queues.
+  * Adjacency list in Graphs.
+  * Memory management (free lists).
+* Complexity analysis:
+
+  * Why insert/delete O(1), search O(n).
+
+---
+
+⚡ **Tip for mastery:**
+Every time you solve a problem, **do both iterative & recursive versions**. That doubles your understanding.
+
+---
